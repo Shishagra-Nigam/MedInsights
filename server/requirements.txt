@@ -1,10 +1,11 @@
 flask
 flask-cors
 langchain
-langchain-openai
+langchain-google-genai
 langchain-community
 faiss-cpu
 python-dotenv
 pypdf
-openai
+langchain-text-splitters
 sqlalchemy
+langchain-classic
